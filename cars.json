@@ -1,0 +1,89 @@
+[
+  {
+    "type": "Sedan",
+    "model": "Toyota Camry",
+    "year": 2020,
+    "color": "White",
+    "price": 25000,
+    "acceleration": 8.5,
+    "maximum_speed": 220,
+    "description": "The Toyota Camry is a comfortable and reliable sedan with a smooth ride and great fuel economy.",
+    "quantity": 100
+  },
+  {
+    "type": "SUV",
+    "model": "Ford Explorer",
+    "year": 2019,
+    "color": "Blue",
+    "price": 35000,
+    "acceleration": 7.2,
+    "maximum_speed": 210,
+    "description": "The Ford Explorer is a spacious and versatile SUV that is perfect for families and outdoor enthusiasts.",
+    "quantity": 100
+  },
+  {
+    "type": "Coupe",
+    "model": "BMW M4",
+    "year": 2018,
+    "color": "Black",
+    "price": 65000,
+    "acceleration": 4.1,
+    "maximum_speed": 250,
+    "description": "The BMW M4 is a high-performance coupe that offers thrilling acceleration and handling.",
+    "quantity": 100
+  },
+  {
+    "type": "Convertible",
+    "model": "Chevrolet Camaro",
+    "year": 2017,
+    "color": "Red",
+    "price": 45000,
+    "acceleration": 5.5,
+    "maximum_speed": 240,
+    "description": "The Chevrolet Camaro is a classic American muscle car that offers a thrilling open-air driving experience.",
+    "quantity": 100
+  },
+  {
+    "type": "Hatchback",
+    "model": "VW Golf GTI",
+    "year": 2016,
+    "color": "Yellow",
+    "price": 25000,
+    "acceleration": 6.5,
+    "maximum_speed": 230,
+    "description": "The VW Golf GTI is a sporty and fun-to-drive hatchback that offers a perfect blend of performance and practicality.",
+    "quantity": 100
+  },
+  {
+    "type": "Sedan",
+    "model": "Honda Civic",
+    "year": 2015,
+    "color": "Gray",
+    "price": 20000,
+    "acceleration": 9.2,
+    "maximum_speed": 210,
+    "description": "The Honda Civic is a popular and reliable sedan that offers a comfortable ride and great fuel economy.",
+    "quantity": 100
+  },
+  {
+    "type": "SUV",
+    "model": "Jeep Grand Cherokee",
+    "year": 2014,
+    "color": "Green",
+    "price": 30000,
+    "acceleration": 8.0,
+    "maximum_speed": 220,
+    "description": "The Jeep Grand Cherokee is a rugged and capable SUV that is perfect for off-road adventures.",
+    "quantity": 100
+  },
+  {
+    "type": "Coupe",
+    "model": "Nissan 370Z",
+    "year": 2013,
+    "color": "Orange",
+    "price": 35000,
+    "acceleration": 5.3,
+    "maximum_speed": 240,
+    "description": "nice car"
+  }
+]
