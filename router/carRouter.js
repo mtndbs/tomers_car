@@ -17,7 +17,6 @@ router
   .post(async (req, res) => {
     try {
       console.log('recieved post');
-      console.log(req.body);
       const newCar = await Car.create(req.body);
       res.status(201).json({ status: 'success', data: newCar });
     } catch (error) {
